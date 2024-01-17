@@ -1,4 +1,4 @@
-import { Uri, CancellationToken, Location, Position, ProviderResult, ReferenceContext, ReferenceProvider, TextDocument, ExtensionContext, languages } from 'vscode';
+import { Uri, CancellationToken, Location, Position, ProviderResult, ReferenceContext, ReferenceProvider, TextDocument } from 'vscode';
 import {
   parse,
   SyntaxType,
